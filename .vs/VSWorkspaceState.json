@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\student",
+    "\\student\\src",
+    "\\student\\src\\main",
+    "\\student\\src\\main\\java",
+    "\\student\\src\\main\\java\\org",
+    "\\student\\src\\main\\java\\org\\dhbw",
+    "\\student\\src\\main\\java\\org\\dhbw\\service",
+    "\\student\\src\\main\\java\\org\\dhbw\\service\\student"
+  ],
+  "SelectedNode": "\\student\\src\\main\\java\\org\\dhbw\\service\\student\\HelloController.java",
+  "PreviewInSolutionExplorer": false
+}
